@@ -59,10 +59,10 @@ public class MainRouter {
 	public static int router_DisplayCount = 1;
 	public static double[][] router_NetworkVectors;
 	public static int[] router_Ports;
-	public static String[] router_Nodes;
 	public static int router_id;
 	public static double[] router_MyVector;
 	public static String[] router_MyHopList;
+	public static String[] router_Nodes;
 	public static DatagramSocket router_Socket;
 	public static File router_File;
 	public static String[] router_Neighbours;
